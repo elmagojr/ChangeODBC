@@ -1,0 +1,58 @@
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.exe
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.deps.json
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.runtimeconfig.json
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.dll
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.pdb
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.csproj.AssemblyReference.cache
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.AssemblyInfoInputs.cache
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.AssemblyInfo.cs
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.csproj.CoreCompileInputs.cache
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.dll
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\refint\odbecito.dll
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.pdb
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.genruntimeconfig.cache
+C:\Users\Johann Flores\Documents\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\ref\odbecito.dll
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.exe
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.deps.json
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.runtimeconfig.json
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.dll
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\bin\Debug\net6.0\odbecito.pdb
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.AssemblyInfoInputs.cache
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.AssemblyInfo.cs
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.csproj.CoreCompileInputs.cache
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.sourcelink.json
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.dll
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\refint\odbecito.dll
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.pdb
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\odbecito.genruntimeconfig.cache
+C:\Users\Johann Flores\Documents\documentos\TO_GIT\odbecito\odbecito\obj\Debug\net6.0\ref\odbecito.dll
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.exe
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.deps.json
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.runtimeconfig.json
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.dll
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.pdb
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.AssemblyInfoInputs.cache
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.AssemblyInfo.cs
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.csproj.CoreCompileInputs.cache
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.dll
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\refint\odbecito.dll
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.pdb
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.genruntimeconfig.cache
+C:\Users\Johann Flores papá\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\ref\odbecito.dll
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.exe
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.deps.json
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.runtimeconfig.json
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.dll
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\bin\Debug\net6.0\odbecito.pdb
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.AssemblyInfoInputs.cache
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.AssemblyInfo.cs
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.csproj.CoreCompileInputs.cache
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.dll
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\refint\odbecito.dll
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.pdb
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\odbecito.genruntimeconfig.cache
+C:\Users\Johann Flores\Desktop\MM\odbecito\odbecito\obj\Debug\net6.0\ref\odbecito.dll
