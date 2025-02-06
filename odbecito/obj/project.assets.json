@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johann Flores\\Desktop\\MM\\odbecito\\odbecito\\odbecito.csproj",
+      "projectUniqueName": "C:\\Users\\Johann Flores\\Documents\\odbecito\\odbecito\\odbecito.csproj",
       "projectName": "odbecito",
-      "projectPath": "C:\\Users\\Johann Flores\\Desktop\\MM\\odbecito\\odbecito\\odbecito.csproj",
+      "projectPath": "C:\\Users\\Johann Flores\\Documents\\odbecito\\odbecito\\odbecito.csproj",
       "packagesPath": "C:\\Users\\Johann Flores\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johann Flores\\Desktop\\MM\\odbecito\\odbecito\\obj\\",
+      "outputPath": "C:\\Users\\Johann Flores\\Documents\\odbecito\\odbecito\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Johann Flores\\AppData\\Roaming\\NuGet\\NuGet.Config",
