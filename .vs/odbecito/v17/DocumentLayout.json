@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{6EF5A7C0-0188-47EF-943E-E88C921CC86C}|odbecito\\odbecito.csproj|c:\\users\\johann flores\\documents\\odbecito\\odbecito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EF5A7C0-0188-47EF-943E-E88C921CC86C}|odbecito\\odbecito.csproj|solutionrelative:odbecito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF5A7C0-0188-47EF-943E-E88C921CC86C}|odbecito\\odbecito.csproj|c:\\users\\johann flores\\documents\\odbecito\\odbecito\\odbecito.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6EF5A7C0-0188-47EF-943E-E88C921CC86C}|odbecito\\odbecito.csproj|solutionrelative:odbecito\\odbecito.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedHeight": 293,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "odbecito",
+              "DocumentMoniker": "C:\\Users\\Johann Flores\\Documents\\odbecito\\odbecito\\odbecito.csproj",
+              "RelativeDocumentMoniker": "odbecito\\odbecito.csproj",
+              "ToolTip": "C:\\Users\\Johann Flores\\Documents\\odbecito\\odbecito\\odbecito.csproj",
+              "RelativeToolTip": "odbecito\\odbecito.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T16:36:27.428Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "odbecito\\Program.cs",
               "ToolTip": "C:\\Users\\Johann Flores\\Documents\\odbecito\\odbecito\\Program.cs",
               "RelativeToolTip": "odbecito\\Program.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAQwDQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T17:11:11.781Z",
               "EditorCaption": ""

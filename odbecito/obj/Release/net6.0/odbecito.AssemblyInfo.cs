@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("odbecito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e9d1d8baa706da6058cb64f23e146cf584c6368")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7baf344ff478b6f35b3d2a2e77477ebc7d024c2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("odbecito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("odbecito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

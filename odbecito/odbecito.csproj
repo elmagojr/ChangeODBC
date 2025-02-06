@@ -5,11 +5,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationIcon>OIP.ico</ApplicationIcon>
+    <ApplicationIcon>OIP2.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="OIP.ico" />
+    <Content Include="OIP2.ico" />
   </ItemGroup>
 
 </Project>

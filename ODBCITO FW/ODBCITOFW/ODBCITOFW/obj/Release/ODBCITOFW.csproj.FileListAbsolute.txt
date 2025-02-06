@@ -1,0 +1,7 @@
+C:\Users\Johann Flores\Documents\odbecito\ODBCITO FW\ODBCITOFW\ODBCITOFW\bin\Release\ODBCITOFW.exe.config
+C:\Users\Johann Flores\Documents\odbecito\ODBCITO FW\ODBCITOFW\ODBCITOFW\bin\Release\ODBCITOFW.exe
+C:\Users\Johann Flores\Documents\odbecito\ODBCITO FW\ODBCITOFW\ODBCITOFW\bin\Release\ODBCITOFW.pdb
+C:\Users\Johann Flores\Documents\odbecito\ODBCITO FW\ODBCITOFW\ODBCITOFW\obj\Release\ODBCITOFW.csproj.AssemblyReference.cache
+C:\Users\Johann Flores\Documents\odbecito\ODBCITO FW\ODBCITOFW\ODBCITOFW\obj\Release\ODBCITOFW.csproj.CoreCompileInputs.cache
+C:\Users\Johann Flores\Documents\odbecito\ODBCITO FW\ODBCITOFW\ODBCITOFW\obj\Release\ODBCITOFW.exe
+C:\Users\Johann Flores\Documents\odbecito\ODBCITO FW\ODBCITOFW\ODBCITOFW\obj\Release\ODBCITOFW.pdb
