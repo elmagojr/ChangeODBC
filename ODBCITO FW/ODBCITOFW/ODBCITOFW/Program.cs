@@ -128,34 +128,34 @@ namespace ODBCITOFW
                             split[0] = textoServer[0];
                             if (textoServer.Length == 1)
                             {
-                                split[1] = "[N/D]";
+                                split[1] = "";
                             }
                             else
                             {
                                 split[1] = textoServer[1];
                             }
 
-                            split[2] = "[N/D]";
+                            split[2] = "";
                         }
                         else
                         {
-                            split[0] = string.IsNullOrWhiteSpace(textoServer[0]) ? "[N/D]" : textoServer[0];
-                            split[1] = string.IsNullOrWhiteSpace(textoServer[1]) ? "[N/D]" : textoServer[1]; ;
-                            split[2] = string.IsNullOrWhiteSpace(textoServer[2]) ? "[N/D]" : textoServer[2]; ;
+                            split[0] = string.IsNullOrWhiteSpace(textoServer[0]) ? "" : textoServer[0];
+                            split[1] = string.IsNullOrWhiteSpace(textoServer[1]) ? "" : textoServer[1]; ;
+                            split[2] = string.IsNullOrWhiteSpace(textoServer[2]) ? "" : textoServer[2]; ;
 
                         }
                         if (opcion.ToString().ToLower() == "p")
                         {
-                            if (split[0] != "[N/D]" && split[1] != "[N/D]" && split[2] != "[N/D]")
+                            if (split[0] != "" && split[1] != "" && split[2] != "")
                             {
-                                Console.WriteLine($"[{posicion}] ->  {split[0]}             ->{split[2]}, [{split[1]}]");
+                                Console.WriteLine($"[{posicion}] ->  {split[0]}             ->{split[2]} {split[1]}");
                             }
                         }
                         if (opcion.ToString().ToLower() == "d")
                         {
-                            if (split[0] != "[N/D]")
+                            if (split[0] != "")
                             {
-                                Console.WriteLine($"[{posicion}] ->  {split[0]}             ->{split[2]}, [{split[1]}]");
+                                Console.WriteLine($"[{posicion}] ->  {split[0]}             ->{split[2]}, {split[1]}");
                             }
                         }
 
